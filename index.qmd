@@ -1,6 +1,6 @@
 ---
 title: "Survival Analysis"
-subtitle: "BHDS 150 | Fall 2025 | LEHIGH - College of Health"
+subtitle: "BSTA 150 | Fall 2025 | LEHIGH - College of Health"
 authors: "Eric Delmelle"
 format: 
   html:
