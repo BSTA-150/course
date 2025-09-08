@@ -1,0 +1,155 @@
+---
+title: "Survival Analysis"
+subtitle: "BHDS 150 | Fall 2025 | LEHIGH - College of Health"
+authors: "Eric Delmelle"
+format: 
+  html:
+    toc: false
+editor: visual
+---
+
+## COURSE FORMAT AND REQUIREMENTS
+
+Each week's two class meetings will blend conceptual lectures with practical, in-class exercises using real datasets. Students are expected to bring a laptop to every class with a fully functional installation of R and RStudio. In-class participation will often involve running code, producing analyses, and interpreting results in real time.
+
+*Readings refer to Applied Survival Analysis Using R (Dirk F. Moore). Class meets Tuesdays and Thursdays. Tuesday, Nov 4: Civic Engagement Day (no class). Last class: Thursday, Dec 4. Final exam period: Dec 9–17, 2025 (date/time TBD).*
+
+## LECTURES
+
+### August 26 & 28: Introduction to Survival Data and Censoring
+
+- Introduction to survival data and censoring across multiple domains
+- Discussion of what constitutes survival data in various fields
+- Overview of course expectations and reproducible workflows
+- Introduction to RStudio, R Markdown, and basic survival concepts
+- *Read: Chapter 1; Appendix A (selected sections)*
+- [GITHUB Link]
+
+### September 2 & 4: R Review and Re-training
+
+- R fundamentals: data structures, importing and cleaning data, working with dates
+- Basic plotting and producing reproducible reports in R Markdown
+- Applied examples using simple survival datasets
+- Hands-on practice with survival data manipulation
+- *Read: Appendix A (dates, data frames, plotting)*
+- **Homework #1 assigned (Mon, Sep 8)** – Basics of R and plotting survival data. **Due Tue, Sep 23**
+- [GITHUB Link]
+
+### September 9, 11 & 16: Hazard and Survival Functions
+
+- Hazard and survival functions; representations of survival distributions
+- Parametric survival distributions (conceptual overview)
+- Computing the survival function from the hazard function
+- Introduction to maximum likelihood estimation
+- *Read: Chapter 2*
+- **In-Class Quiz #1 (Tue, Sep 16)** – covers Weeks 1 & 2
+- [GITHUB Link]
+
+### September 16, 18 & 23: Nonparametric Survival Estimation
+
+- Nonparametric survival curve estimation (Kaplan–Meier, Nelson–Aalen)
+- Median survival and confidence intervals
+- Smoothed hazard and survival estimates
+- Introduction to left truncation
+- *Read: Chapter 3*
+- [GITHUB Link]
+
+### September 23 & 25: Comparing Survival Distributions
+
+- Comparing survival distributions using log–rank and Wilcoxon tests
+- Stratified tests and their applications
+- Practical implementation and interpretation
+- *Read: Chapter 4*
+- **In-Class Quiz #2 (Tue, Sep 23)** – covers Weeks 3 & 4
+- [GITHUB Link]
+
+### September 30 & October 2: Cox Proportional Hazards Model
+
+- Cox proportional hazards model: fundamental concepts
+- Partial likelihood and hypothesis tests
+- Introduction to hazard ratios and interpretation
+- *Read: Chapter 5*
+- **Homework #2 assigned (Thu, Oct 2)** – Model setup, variable selection, and initial Cox modeling. **Due Thu, Oct 16**
+- [GITHUB Link]
+
+### October 7 & 9: Advanced Cox Modeling
+
+- Cox model with multiple covariates
+- Baseline survival estimation and handling ties
+- Left truncation in Cox models
+- Advanced interpretation techniques
+- *Read: Chapter 5*
+- **In-Class Quiz #3 (Tue, Oct 7)** – covers Weeks 5 & 6
+- [GITHUB Link]
+
+### October 14 & 16: Model Selection and Interpretation
+
+- Model selection strategies and interpretation techniques
+- Covariate handling: categorical vs. continuous variables
+- Nested model tests, AIC/BIC criteria
+- Best practices for variable selection
+- *Read: Chapter 6*
+- [GITHUB Link]
+
+### October 21 & 23: Model Diagnostics
+
+- Model diagnostics: martingale, deviance, and case deletion residuals
+- Assessing proportional hazards assumption
+- Log–cumulative hazard plots and Schoenfeld residuals
+- Identifying and addressing model violations
+- *Read: Chapter 7*
+- **In-Class Quiz #4 (Tue, Oct 21)** – covers Weeks 7 & 8
+- [GITHUB Link]
+
+### October 28 & 30: Time-Dependent Covariates
+
+- Time-dependent covariates: predictable and external covariates
+- Time transfer functions and implementation
+- Applications and interpretation challenges
+- *Read: Chapter 8*
+- **Homework #3 assigned (Thu, Oct 30)** – Time-dependent covariates analysis. **Due Thu, Nov 13**
+- [GITHUB Link]
+
+### November 6: Parametric Models and Sample Size
+
+- Brief overview of parametric models (exponential, Weibull, log–logistic)
+- AFT vs. PH parameterizations
+- Sample size considerations for survival studies
+- Begin project dataset selection and preliminary KM plots
+- *Read: Chapter 10 (selected), Chapter 11 (selected)*
+- [GITHUB Link]
+
+### November 11 & 13: Project Development
+
+- Project development: model fitting (Cox, time-dependent, or parametric)
+- Model diagnostics and interpretation for projects
+- Individual consultations and peer feedback sessions
+- **In-Class Quiz #5 (Tue, Nov 11)** – covers Weeks 9 & 11
+- **Project proposal due (Thu, Nov 13)** – by email or CourseSite
+- [GITHUB Link]
+
+### November 18 & 20: Project Work Sessions
+
+- Project work sessions with instructor check-ins
+- Troubleshooting data, models, and interpretation
+- Advanced techniques and problem-solving
+- Peer collaboration and feedback
+- [GITHUB Link]
+
+### November 25: Project Preparation
+
+- Project work and final preparation for presentations
+- Final troubleshooting and refinement
+- Presentation guidelines and expectations
+- *Note: Nov 27 Thanksgiving - no class*
+- [GITHUB Link]
+
+### December 2 & 4: Project Presentations and Course Wrap-up
+
+- Student project presentations
+- Course review and synthesis
+- Discussion of advanced topics and future directions
+- **Final project due Thu, Dec 4**
+- [GITHUB Link]
+
+delmelle@gmail.com
