@@ -33,7 +33,7 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 - Hands-on practice with survival data manipulation
 - *Read: Appendix A (dates, data frames, plotting)*
 - **Homework #1 assigned (Mon, Sep 8)** – Basics of R and plotting survival data. **Due Tue, Sep 23**
-- [GITHUB Link]https://bsta-150.github.io/basicsOfR/
+- [GITHUB Link](https://bsta-150.github.io/basicsOfR/)
 
 ### September 9, 11 & 16: Hazard and Survival Functions
 
