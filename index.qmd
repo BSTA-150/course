@@ -56,21 +56,21 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   *Read: Chapter 3*
 -   [GITHUB Link](https://BSTA-150.github.io/chapter3/)
 
-### September 25: Comparing Survival Distributions
+### September 25, 30: Comparing Survival Distributions
 
 -   Comparing survival distributions using log--rank and Wilcoxon tests
 -   Stratified tests and their applications
 -   Practical implementation and interpretation
 -   *Read: Chapter 4*
 -   [GITHUB Link](https://BSTA-150.github.io/chapter4/)
+-   **In-Class Quiz #2 (Tue, Sep 30)** -- covers Weeks 3 & 4
 
-### September 30 & October 2: Cox Proportional Hazards Model
+### October 2: Cox Proportional Hazards Model
 
 -   Cox proportional hazards model: fundamental concepts
 -   Partial likelihood and hypothesis tests
 -   Introduction to hazard ratios and interpretation
 -   *Read: Chapter 5*
--   **In-Class Quiz #2 (Tue, Sep 30)** -- covers Weeks 3 & 4
 -   **Homework #2 assigned (Thu, Oct 2)** -- Model setup, variable selection, and initial Cox modeling. **Due Thu, Oct 16**
 -   [GITHUB Link](https://bsta-150.github.io/chapter5/)
 
