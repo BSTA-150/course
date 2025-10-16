@@ -65,7 +65,7 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   [GITHUB Link](https://BSTA-150.github.io/chapter4/)
 -   **In-Class Quiz #2 (Tue, Sep 30)** -- covers Weeks 3 & 4
 
-### October 2: Cox Proportional Hazards Model
+### October 2, 7: Cox Proportional Hazards Model
 
 -   Cox proportional hazards model: fundamental concepts
 -   Partial likelihood and hypothesis tests
@@ -74,35 +74,32 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   **Homework #2 assigned (Thu, Oct 2)** -- Model setup, variable selection, and initial Cox modeling. **Due Thu, Oct 16**
 -   [GITHUB Link](https://bsta-150.github.io/chapter5/)
 
-
-
-### October 7 & 9: Advanced Cox Modeling
+### October 9, 16, 21: Advanced Cox Modeling
 
 -   Cox model with multiple covariates
--   Baseline survival estimation and handling ties
--   Left truncation in Cox models
--   Advanced interpretation techniques
--   *Read: Chapter 5*
--   **In-Class Quiz #3 (Tue, Oct 7)** -- covers Weeks 5 & 6
--   \[GITHUB Link\]
+-   Interactions
+-   Interpretation techniques
+-   Schoenfeld residuals
+-   Assessing proportional hazards assumption
+-   Model diagnostics: martingale, deviance, and case deletion residuals
+-   **Take-home Quiz #3 (Tue, Oct 14)** -- covers Weeks 5 & 6
+-   *Read: Chapter 5, and 7*
+-   [GITHUB Link](https://bsta-150.github.io/extensionCoxModel/)
 
-### October 14 & 16: Model Selection and Interpretation
+### October 21: Model Selection and Interpretation
 
--   Model selection strategies and interpretation techniques
+-   Model selection strategies
 -   Covariate handling: categorical vs. continuous variables
 -   Nested model tests, AIC/BIC criteria
 -   Best practices for variable selection
+-   Identifying and addressing model violations
 -   *Read: Chapter 6*
 -   \[GITHUB Link\]
 
-### October 21 & 23: Model Diagnostics
+### October 23: TBD
 
--   Model diagnostics: martingale, deviance, and case deletion residuals
--   Assessing proportional hazards assumption
--   Log--cumulative hazard plots and Schoenfeld residuals
--   Identifying and addressing model violations
--   *Read: Chapter 7*
--   **In-Class Quiz #4 (Tue, Oct 21)** -- covers Weeks 7 & 8
+-   Modeling the Role of Geography on Survival Outcomes for Children with Birth Defects (presentation by Eric).
+-   **In-Class Quiz #4 (Tue, Oct 23)** -- covers Weeks 7 & 8
 -   \[GITHUB Link\]
 
 ### October 28 & 30: Time-Dependent Covariates
