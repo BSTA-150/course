@@ -99,11 +99,8 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 ### October 28: Model diagnostics
 
 -   Schoenfeld residuals
-
 -   Assessing proportional hazards assumption
-
 -   Model diagnostics: martingale, deviance, and case deletion residuals
-
 -   *Read: Chapter 7*
 
 ### October 30: Time-Dependent Covariates
