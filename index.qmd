@@ -79,9 +79,6 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   Cox model with multiple covariates
 -   Interactions
 -   Interpretation techniques
--   Schoenfeld residuals
--   Assessing proportional hazards assumption
--   Model diagnostics: martingale, deviance, and case deletion residuals
 -   **Take-home Quiz #3 (Tue, Oct 14)** -- covers Weeks 5 & 6
 -   *Read: Chapter 5, and 7*
 -   [GITHUB Link](https://bsta-150.github.io/extensionCoxModel/)
@@ -92,26 +89,38 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   Covariate handling: categorical vs. continuous variables
 -   Nested model tests, AIC/BIC criteria
 -   Best practices for variable selection
--   Identifying and addressing model violations
+-   Interaction terms, splines
 -   *Read: Chapter 6*
--   \[GITHUB Link\]
 
-### October 23: TBD
+### October 23:
 
 -   Modeling the Role of Geography on Survival Outcomes for Children with Birth Defects (presentation by Eric).
--   **In-Class Quiz #4 (Tue, Oct 23)** -- covers Weeks 7 & 8
--   \[GITHUB Link\]
 
-### October 28 & 30: Time-Dependent Covariates
+### October 28: Model diagnostics
+
+-   Schoenfeld residuals
+
+-   Assessing proportional hazards assumption
+
+-   Model diagnostics: martingale, deviance, and case deletion residuals
+
+-   *Read: Chapter 7*
+
+### October 30: Time-Dependent Covariates
 
 -   Time-dependent covariates: predictable and external covariates
+-   *Read: Chapter 8*
+-   **In-Class Quiz #4 (Tue, Oct 30)** -- see study guide
+-   [GITHUB Link](https://bsta-150.github.io/timeVaryingCovariates/)
+
+### November 6: more on time-dependent covariates
+
 -   Time transfer functions and implementation
 -   Applications and interpretation challenges
--   *Read: Chapter 8*
--   **Homework #3 assigned (Thu, Oct 30)** -- Time-dependent covariates analysis. **Due Thu, Nov 13**
--   \[GITHUB Link\]
+-   Exercises on time-dependent modeling.
+-   **Homework #3 assigned** - **Due Thu, Nov 20**
 
-### November 6: Parametric Models and Sample Size
+### November 11: Parametric Models and Sample Size
 
 -   Brief overview of parametric models (exponential, Weibull, log--logistic)
 -   AFT vs. PH parameterizations
@@ -120,8 +129,9 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   *Read: Chapter 10 (selected), Chapter 11 (selected)*
 -   \[GITHUB Link\]
 
-### November 11 & 13: Project Development
+### November 13: Project Development
 
+-   Instructor out of town (GSA meeting)
 -   Project development: model fitting (Cox, time-dependent, or parametric)
 -   Model diagnostics and interpretation for projects
 -   Individual consultations and peer feedback sessions
