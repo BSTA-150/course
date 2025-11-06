@@ -104,25 +104,26 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   *Read: Chapter 7*
 -   [GITHUB LINK](https://bsta-150.github.io/modelDiagnostics/)
 
-### October 30: Time-Dependent Covariates
+### October 30, November 6: Time-Dependent Covariates
 
 -   Time-dependent covariates: predictable and external covariates
--   *Read: Chapter 8*
--   **In-Class Quiz #4 (Tue, Oct 30)** -- see study guide
--   [GITHUB Link](https://bsta-150.github.io/timeVaryingCovariates/)
-
-### November 6: more on time-dependent covariates
-
 -   Time transfer functions and implementation
 -   Applications and interpretation challenges
 -   Exercises on time-dependent modeling.
--   **Homework #3 assigned** - **Due Thu, Nov 20**
+-   *Read: Chapter 8*
+-   **In-Class Quiz #4 (Tue, Oct 30)** -- see study guide
+-   [GITHUB Link](https://bsta-150.github.io/timeVaryingCovariates/)
+-   **Homework #3 assigned Friday Nov 7th** - **Due Tuesday, Nov 24**
 
-### November 11: Parametric Models and Sample Size
+
+
+
+### November 11: Parametric Models, Sample Size and Competing Risks
 
 -   Brief overview of parametric models (exponential, Weibull, log--logistic)
 -   AFT vs. PH parameterizations
 -   Sample size considerations for survival studies
+-   Competing risks
 -   Begin project dataset selection and preliminary KM plots
 -   *Read: Chapter 10 (selected), Chapter 11 (selected)*
 -   \[GITHUB Link\]
