@@ -116,36 +116,32 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   **Homework #3 assigned Wednesday Nov 13** - **Due Tuesday, Nov 24**
 -   [GITHUB Link](https://bsta-150.github.io/timeVaryingCovariates/)
 
-### November 18: Parametric Models, Sample Size and Competing Risks
+### November 20: Clustered Observations and Competing Risks
 
--   Brief overview of parametric models (exponential, Weibull, log--logistic)
--   AFT vs. PH parameterizations
--   Sample size considerations for survival studies
+-   Clustered Observations
+-   Frailty models
 -   Competing risks
 -   Begin project dataset selection and preliminary KM plots
 -   *Read: Chapter 10 (selected), Chapter 11 (selected)*
--   \[GITHUB Link\]
+-   [GITHUB Link](https://BSTA-150.github.io/chap9-11/)
+-   **In-Class Quiz #5 (Tue, Nov 20)**
 
-### November 20: Project Development
+### November 25: Project Development
 
 -   Project development: model fitting (Cox, time-dependent, or parametric)
 -   Model diagnostics and interpretation for projects
 -   Individual consultations and peer feedback sessions
--   **In-Class Quiz #5 (Tue, Nov 11)** -- covers Weeks 9 & 11
--   \[GITHUB Link\]
 
-### November 24
 
+### December 2
 -   Project work sessions with instructor check-ins
 -   Troubleshooting data, models, and interpretation
--   Advanced techniques and problem-solving\
+-   Advanced techniques and problem-solving
+-   Course review and synthesis
 
-### December 2 & 4: Project Presentations and Course Wrap-up
+### December 4: Project Presentations and Course Wrap-up
 
 -   Student project presentations
--   Course review and synthesis
--   Discussion of advanced topics and future directions
--   **Final project due Thu, Dec 4**
--   \[GITHUB Link\]
+
 
 delmelle\@gmail.com
