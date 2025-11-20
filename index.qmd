@@ -104,7 +104,7 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   *Read: Chapter 7*
 -   [GITHUB LINK](https://bsta-150.github.io/modelDiagnostics/)
 
-### October 30, November 6: Time-Dependent Covariates
+### October 30, November 6 and November 11: Time-Dependent Covariates
 
 -   Time-dependent covariates: predictable and external covariates
 -   Time transfer functions and implementation
@@ -112,13 +112,11 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   Exercises on time-dependent modeling.
 -   *Read: Chapter 8*
 -   **In-Class Quiz #4 (Tue, Oct 30)** -- see study guide
+-   **Project proposal due (Thu, Nov 13)** -- by email or CourseSite
+-   **Homework #3 assigned Wednesday Nov 13** - **Due Tuesday, Nov 24**
 -   [GITHUB Link](https://bsta-150.github.io/timeVaryingCovariates/)
--   **Homework #3 assigned Friday Nov 7th** - **Due Tuesday, Nov 24**
 
-
-
-
-### November 11: Parametric Models, Sample Size and Competing Risks
+### November 18: Parametric Models, Sample Size and Competing Risks
 
 -   Brief overview of parametric models (exponential, Weibull, log--logistic)
 -   AFT vs. PH parameterizations
@@ -128,31 +126,19 @@ Each week's two class meetings will blend conceptual lectures with practical, in
 -   *Read: Chapter 10 (selected), Chapter 11 (selected)*
 -   \[GITHUB Link\]
 
-### November 13: Project Development
+### November 20: Project Development
 
--   Instructor out of town (GSA meeting)
 -   Project development: model fitting (Cox, time-dependent, or parametric)
 -   Model diagnostics and interpretation for projects
 -   Individual consultations and peer feedback sessions
 -   **In-Class Quiz #5 (Tue, Nov 11)** -- covers Weeks 9 & 11
--   **Project proposal due (Thu, Nov 13)** -- by email or CourseSite
 -   \[GITHUB Link\]
 
-### November 18 & 20: Project Work Sessions
+### November 24
 
 -   Project work sessions with instructor check-ins
 -   Troubleshooting data, models, and interpretation
--   Advanced techniques and problem-solving
--   Peer collaboration and feedback
--   \[GITHUB Link\]
-
-### November 25: Project Preparation
-
--   Project work and final preparation for presentations
--   Final troubleshooting and refinement
--   Presentation guidelines and expectations
--   *Note: Nov 27 Thanksgiving - no class*
--   \[GITHUB Link\]
+-   Advanced techniques and problem-solving\
 
 ### December 2 & 4: Project Presentations and Course Wrap-up
 
